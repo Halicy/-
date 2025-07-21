@@ -1,0 +1,497 @@
+#### 1.3 参考文献（续）
+
+[10] Bac CW, van Henten EJ, Hemming J, et al. Harvesting robots for high-value crops: state-of-the-art review and challenges ahead[J]. Journal of Field Robotics, 2014, 31(6): 888-911.
+
+[11] 董芳, 景旭, 李寒. 基于深度学习的温室黄瓜识别与定位研究[J]. 农业机械学报, 2023, 54(2): 195-203.
+
+[12] Xiong Y, Peng C, Grimstad L, et al. Development and field evaluation of a strawberry harvesting robot with a cable-driven gripper[J]. Computers and Electronics in Agriculture, 2019, 157: 392-402.
+
+[13] 冯青春, 陈建军, 范国强. 基于机器视觉的黄瓜采摘机器人目标识别与定位[J]. 农业工程学报, 2021, 37(15): 170-178.
+
+[14] Arad B, Balendonck J, Barth R, et al. Development of a sweet pepper harvesting robot[J]. Journal of Field Robotics, 2020, 37(6): 1027-1039.
+
+[15] 汤修映, 张铁中, 徐丽明. 温室黄瓜采摘机器人系统集成与试验[J]. 农业机械学报, 2022, 53(3): 19-26.
+
+[16] Kootstra G, Wang X, Blok PM, et al. Selective harvesting robotics: current research, trends, and future directions[J]. Current Robotics Reports, 2021, 2(1): 95-104.
+
+[17] 李伟, 王儒敬, 宋良图. 复杂光照条件下的温室作物图像增强方法[J]. 农业工程学报, 2020, 36(12): 174-182.
+
+[18] Zhao Y, Gong L, Huang Y, et al. A review of key techniques of vision-based control for harvesting robot[J]. Computers and Electronics in Agriculture, 2016, 127: 311-323.
+
+[19] 刘金鹏, 任文涛, 林海波. 基于颜色和纹理特征的黄瓜果实识别方法[J]. 农机化研究, 2021, 43(8): 35-40.
+
+[20] Gongal A, Amatya S, Karkee M, et al. Sensors and systems for fruit detection and localization: A review[J]. Computers and Electronics in Agriculture, 2015, 116: 8-19.
+
+[21] 吕小莲, 吕小荣, 卢秉福. 基于颜色信息的采摘西红柿识别方法[J]. 计算机工程, 2020, 36(11): 178-182.
+
+[22] Font D, Pallejà T, Tresanchez M, et al. A proposal for automatic fruit harvesting by combining a low cost stereovision camera and a robotic arm[J]. Sensors, 2014, 14(7): 11557-11579.
+
+[23] 张建华, 朱文静, 胡小安. 遮挡条件下黄瓜目标检测算法研究[J]. 计算机应用研究, 2022, 39(4): 1235-1240.
+
+[24] Barth R, IJsselmuiden J, Hemming J, et al. Data synthesis methods for semantic segmentation in agriculture: A Capsicum annuum dataset[J]. Computers and Electronics in Agriculture, 2018, 144: 284-296.
+
+[25] 纪超, 张俊雄, 李伟. 基于多尺度特征融合的小目标黄瓜检测方法[J]. 农业机械学报, 2023, 54(1): 245-252.
+
+[26] Kang H, Chen C. Fruit detection and segmentation for apple harvesting using visual sensor in orchards[J]. Sensors, 2019, 19(20): 4599.
+
+[27] 杨福增, 田素博, 邢洁洁. 基于改进YOLOv5的多尺度黄瓜检测算法[J]. 农业工程学报, 2022, 38(16): 122-130.
+
+[28] Williams HA, Jones MH, Nejati M, et al. Robotic kiwifruit harvesting using machine vision, convolutional neural networks, and robotic arms[J]. Biosystems Engineering, 2019, 181: 140-156.
+
+[29] 袁挺, 纪超, 李伟. 温室环境下黄瓜采摘机器人实时检测系统设计[J]. 机器人, 2021, 43(3): 276-285.
+
+[30] Lin G, Tang Y, Zou X, et al. Guava detection and pose estimation using a low-cost RGB-D sensor in the field[J]. Sensors, 2019, 19(2): 428.
+
+[31] Carion N, Massa F, Synnaeve G, et al. End-to-end object detection with transformers[C]//European Conference on Computer Vision. Springer, 2020: 213-229.
+
+[32] 王学文, 刘永波, 姬江涛. 基于Transformer的农业目标检测研究进展[J]. 智慧农业(中英文), 2023, 5(1): 1-15.
+
+[33] Zhao Y, Lv W, Xu S, et al. DETRs beat YOLOs on real-time object detection[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 16965-16974.
+
+[34] 魏萌, 陈明, 刘振. 基于深度学习的温室作物病虫害检测研究综述[J]. 农业机械学报, 2023, 54(11): 1-20.
+
+[35] Vasconez JP, Kantor GA, Auat Cheein FA. Human–robot interaction in agriculture: A survey and current challenges[J]. Biosystems Engineering, 2019, 179: 35-48.
+
+[36] 张瑞瑞, 陈梦婷, 李秀. 农业机器人视觉系统关键技术研究进展[J]. 机器人, 2023, 45(1): 114-128.
+
+[37] Zheng Y, Kong J, Jin X, et al. CropDeep: The crop vision dataset for deep-learning-based classification and detection in precision agriculture[J]. Sensors, 2019, 19(5): 1058.
+
+[38] 赵春江. 智慧农业理论、技术与应用[M]. 北京: 科学出版社, 2022.
+
+[39] Lu Y, Young S. A survey of public datasets for computer vision tasks in precision agriculture[J]. Computers and Electronics in Agriculture, 2020, 178: 105760.
+
+[40] 唐红梅, 陈力航, 郭彦. 基于注意力机制的农业场景多尺度目标检测[J]. 计算机研究与发展, 2022, 59(8): 1647-1658.
+
+[41] Dias PA, Tabb A, Medeiros H. Apple flower detection using deep convolutional networks[J]. Computers in Industry, 2018, 99: 17-28.
+
+[42] 李道亮, 杨文柱, 李振波. 农业人工智能研究综述与展望[J]. 中国科学: 信息科学, 2020, 50(7): 1063-1083.
+
+[43] Bargoti S, Underwood J. Deep fruit detection in orchards[C]//2017 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2017: 3626-3633.
+
+[44] 姚竹亭, 王红君, 岳有军. 基于改进深度学习的温室番茄识别方法[J]. 农业工程学报, 2021, 37(18): 136-142.
+
+[45] Sa I, Ge Z, Dayoub F, et al. Deepfruits: A fruit detection system using deep neural networks[J]. Sensors, 2016, 16(8): 1222.
+
+[46] Koirala A, Walsh KB, Wang Z, et al. Deep learning–Method overview and review of use for fruit detection and yield estimation[J]. Computers and Electronics in Agriculture, 2019, 162: 219-234.
+
+[47] 张建华, 王志军, 冯全. 基于迁移学习的跨品种果实检测方法研究[J]. 农业机械学报, 2023, 54(7): 230-238.
+
+[48] Chen SW, Shivakumar SS, Dcunha S, et al. Counting apples and oranges with deep learning: A data-driven approach[J]. IEEE Robotics and Automation Letters, 2017, 2(2): 781-788.
+
+[49] 中国农业科学院农业经济与发展研究所. 2023年中国农业机械化发展报告[R]. 北京: 中国农业出版社, 2023.
+
+[50] Silwal A, Davidson JR, Karkee M, et al. Design, integration, and field evaluation of a robotic apple harvester[J]. Journal of Field Robotics, 2017, 34(6): 1140-1159.
+
+[51] 杨丽, 张俊雄, 李伟. 果蔬采摘机器人经济效益分析与评价[J]. 农业工程学报, 2022, 38(24): 293-301.
+
+[52] Fountas S, Mylonas N, Malounas I, et al. Agricultural robotics for field operations[J]. Sensors, 2020, 20(9): 2672.
+
+[53] 国务院. 关于加快推进农业机械化和农机装备产业转型升级的指导意见[Z]. 国发〔2018〕42号, 2018.
+
+[54] Bechar A, Vigneault C. Agricultural robots for field operations: Concepts and components[J]. Biosystems Engineering, 2016, 149: 94-111.
+
+[55] Sistler F. Robotics and intelligent machines in agriculture[J]. IEEE Journal on Robotics and Automation, 1987, 3(1): 3-6.
+
+[56] 罗锡文, 廖娟, 胡炼. 我国农业机械化60年发展历程、成就与展望[J]. 农业工程学报, 2019, 35(12): 1-14.
+
+[57] Kondo N, Ting KC. Robotics for bioproduction systems[M]. American Society of Agricultural Engineers, 1998.
+
+[58] Arima S, Kondo N. Cucumber harvesting robot and plant training system[J]. Journal of Robotics and Mechatronics, 1999, 11(3): 208-212.
+
+[59] Van Henten EJ, Hemming J, Van Tuijl BAJ, et al. An autonomous robot for harvesting cucumbers in greenhouses[J]. Autonomous Robots, 2002, 13(3): 241-258.
+
+[60] Van Henten EJ, Van Tuijl BAJ, Hoogakker GJ, et al. An autonomous robot for de-leafing cucumber plants grown in a high-wire cultivation system[J]. Biosystems Engineering, 2006, 94(3): 317-323.
+
+[61] Hayashi S, Shigematsu K, Yamamoto S, et al. Evaluation of a strawberry-harvesting robot in a field test[J]. Biosystems Engineering, 2010, 105(2): 160-171.
+
+[62] 张铁中, 陈利兵, 宋健. 黄瓜采摘机器人系统研制与试验[J]. 农业工程学报, 2011, 27(5): 15-21.
+
+[63] 纪超, 冯青春, 袁挺. 温室黄瓜采摘机器人机构设计与运动学分析[J]. 农业机械学报, 2011, 42(3): 191-196.
+
+[64] 袁挺, 杨庆华, 陈英. 基于深度相机的黄瓜果实三维定位方法[J]. 农业工程学报, 2012, 28(22): 161-167.
+
+[65] 李伟, 王儒敬, 汪成龙. 多传感器融合的温室黄瓜采摘机器人系统[J]. 机器人, 2015, 37(5): 631-640.
+
+[66] Mehta SS, Burks TF. Vision-based control of robotic manipulator for citrus harvesting[J]. Computers and Electronics in Agriculture, 2014, 102: 146-158.
+
+[67] 王晓楠, 冯青春, 成芳. 复杂光照条件下黄瓜目标识别鲁棒性研究[J]. 农业机械学报, 2019, 50(11): 192-198.
+
+[68] Bulanon DM, Burks TF, Alchanatis V. Image fusion of visible and thermal images for fruit detection[J]. Biosystems Engineering, 2009, 103(1): 12-22.
+
+[69] Hemming J, Bac CW, van Tuijl BAJ, et al. A robot for harvesting sweet-pepper in greenhouses[C]//Proceedings of the International Conference of Agricultural Engineering. 2014: 6-10.
+
+[70] 吕继东, 赵德安, 陈玉. 黄瓜采摘机器人空间定位误差分析与补偿[J]. 农业机械学报, 2013, 44(1): 240-245.
+
+[71] Zou X, Ye M, Luo C, et al. Fault-tolerant design of a limited universal fruit-picking end-effector based on vision positioning error[J]. Applied Engineering in Agriculture, 2016, 32(1): 5-18.
+
+[72] Tang Y, Chen M, Wang C, et al. Recognition and localization methods for vision-based fruit picking robots: A review[J]. Frontiers in Plant Science, 2020, 11: 510.
+
+[73] 蔡健荣, 孙海波, 李永平. 果园机器人研究进展与发展方向[J]. 农业机械学报, 2021, 52(3): 1-19.
+
+[74] Kapach K, Barnea E, Mairon R, et al. Computer vision for fruit harvesting robots–state of the art and challenges ahead[J]. International Journal of Computational Vision and Robotics, 2012, 3(1/2): 4-34.
+
+[75] Kamilaris A, Prenafeta-Boldú FX. Deep learning in agriculture: A survey[J]. Computers and Electronics in Agriculture, 2018, 147: 70-90.
+
+[76] 熊本海, 杨振刚, 杨亮亮. 中国农业信息技术研究进展与展望[J]. 中国农业科学, 2020, 53(19): 4011-4026.
+
+[77] LeCun Y, Bengio Y, Hinton G. Deep learning[J]. Nature, 2015, 521(7553): 436-444.
+
+[78] Ren S, He K, Girshick R, et al. Faster R-CNN: Towards real-time object detection with region proposal networks[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017, 39(6): 1137-1149.
+
+[79] He K, Gkioxari G, Dollár P, et al. Mask R-CNN[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017: 2961-2969.
+
+[80] 徐凯, 王林, 陈度. 基于Faster R-CNN的苹果果实识别方法[J]. 农业机械学报, 2018, 49(1): 23-29.
+
+[81] Sa I, Ge Z, Dayoub F, et al. Deepfruits: A fruit detection system using deep neural networks[J]. Sensors, 2016, 16(8): 1222.
+
+[82] Gao F, Fu L, Zhang X, et al. Multi-class fruit-on-plant detection for apple in SNAP system using Faster R-CNN[J]. Computers and Electronics in Agriculture, 2020, 176: 105634.
+
+[83] Redmon J, Divvala S, Girshick R, et al. You only look once: Unified, real-time object detection[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 779-788.
+
+[84] Liu W, Anguelov D, Erhan D, et al. SSD: Single shot multibox detector[C]//European Conference on Computer Vision. Springer, 2016: 21-37.
+
+[85] 龙满生, 欧阳春娟, 刘欢. 基于深度学习的农业图像目标检测研究综述[J]. 计算机应用研究, 2021, 38(7): 1921-1932.
+
+[86] Tian Y, Yang G, Wang Z, et al. Apple detection during different growth stages in orchards using the improved YOLO-V3 model[J]. Computers and Electronics in Agriculture, 2019, 157: 417-426.
+
+[87] Koirala A, Walsh KB, Wang Z, et al. Deep learning for real-time fruit detection and orchard fruit load estimation: Benchmarking of 'MangoYOLO'[J]. Precision Agriculture, 2019, 20(6): 1107-1135.
+
+[88] Liu G, Nouaze JC, Touko Mbouembe PL, et al. YOLO-tomato: A robust algorithm for tomato detection based on YOLOv3[J]. Sensors, 2020, 20(7): 2145.
+
+[89] Wang D, He D. Channel pruned YOLO V5s-based deep learning approach for rapid and accurate apple fruitlet detection before fruit thinning[J]. Biosystems Engineering, 2021, 210: 271-281.
+
+[90] Luo W, Li Y, Urtasun R, et al. Understanding the effective receptive field in deep convolutional neural networks[C]//Advances in Neural Information Processing Systems. 2016: 4898-4906.
+
+[91] 王俊, 杨琳, 赵源. 深度卷积神经网络感受野分析与优化[J]. 自动化学报, 2021, 47(8): 1891-1903.
+
+[92] Yu F, Koltun V. Multi-scale context aggregation by dilated convolutions[C]//International Conference on Learning Representations. 2016.
+
+[93] Lin TY, Dollár P, Girshick R, et al. Feature pyramid networks for object detection[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 2117-2125.
+
+[94] 刘辉, 杨杰, 黄凤辰. 基于多尺度特征融合的小目标检测研究综述[J]. 计算机科学, 2021, 48(8): 1-13.
+
+[95] Singh B, Davis LS. An analysis of scale invariance in object detection snip[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 3578-3587.
+
+[96] Chen Y, Li W, Sakaridis C, et al. Domain adaptive faster R-CNN for object detection in the wild[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 3339-3348.
+
+[97] 张慧, 王坤峰, 王飞跃. 深度学习在目标视觉检测中的应用进展与展望[J]. 自动化学报, 2017, 43(8): 1289-1305.
+
+[98] Li Z, Peng C, Yu G, et al. DetNet: Design backbone for object detection[C]//Proceedings of the European Conference on Computer Vision. 2018: 334-350.
+
+[99] Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.
+
+[100] Carion N, Massa F, Synnaeve G, et al. End-to-end object detection with transformers[C]//European Conference on Computer Vision. Springer, 2020: 213-229.
+
+[101] Carion N, Massa F, Synnaeve G, et al. End-to-end object detection with transformers[C]//European Conference on Computer Vision. Springer, 2020: 213-229.
+
+[102] Zhu X, Su W, Lu L, et al. Deformable DETR: Deformable transformers for end-to-end object detection[C]//International Conference on Learning Representations. 2021.
+
+[103] Meng D, Chen X, Fan Z, et al. Conditional DETR for fast training convergence[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 3651-3660.
+
+[104] Zhao Y, Lv W, Xu S, et al. DETRs beat YOLOs on real-time object detection[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 16965-16974.
+
+[105] Wang W, Xie E, Li X, et al. Pyramid vision transformer: A versatile backbone for dense prediction without convolutions[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 568-578.
+
+[106] Li X, Hu X, Yang J. Spatial pyramid pooling in deep convolutional networks for visual recognition[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(9): 1904-1916.
+
+[107] Chen Z, Zhang R, Zhang G, et al. Digging into self-supervised monocular depth estimation[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 3828-3838.
+
+[108] Zhang S, Chi C, Yao Y, et al. Bridging the gap between anchor-based and anchor-free detection via adaptive training sample selection[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 9759-9768.
+
+[109] Yu C, Wang J, Peng C, et al. BiSeNet: Bilateral segmentation network for real-time semantic segmentation[C]//Proceedings of the European Conference on Computer Vision. 2018: 325-341.
+
+[110] Liu S, Qi L, Qin H, et al. Path aggregation network for instance segmentation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 8759-8768.
+
+[111] Zhao Q, Sheng T, Wang Y, et al. M2det: A single-shot object detector based on multi-level feature pyramid network[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 9259-9266.
+
+[112] Yang Z, Liu S, Hu H, et al. RepPoints: Point set representation for object detection[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 9657-9666.
+
+[113] Li X, Wang W, Wu L, et al. Generalized focal loss: Learning qualified and distributed bounding boxes for dense object detection[C]//Advances in Neural Information Processing Systems. 2020, 33: 21002-21012.
+
+[114] Wang CY, Bochkovskiy A, Liao HYM. YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 7464-7475.
+
+[115] Bargoti S, Underwood JP. Image segmentation for fruit detection and yield estimation in apple orchards[J]. Journal of Field Robotics, 2017, 34(6): 1039-1060.
+
+[116] 刘航, 王健, 李道亮. 农业复杂环境下目标检测鲁棒性增强方法[J]. 农业工程学报, 2022, 38(15): 145-154.
+
+[117] Fu L, Feng Y, Wu J, et al. Fast and accurate detection of kiwifruit in orchard using improved YOLOv3-tiny model[J]. Precision Agriculture, 2021, 22(3): 754-776.
+
+[118] Tian Z, Shen C, Chen H, et al. FCOS: Fully convolutional one-stage object detection[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 9627-9636.
+
+[119] 苏博, 陈志国, 余山山. 密集小目标检测研究综述[J]. 软件学报, 2021, 32(11): 3588-3615.
+
+[120] Yu X, Gong Y, Jiang N, et al. Scale match for tiny person detection[C]//Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020: 1257-1265.
+
+[121] Howard A, Sandler M, Chu G, et al. Searching for MobileNetV3[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 1314-1324.
+
+[122] 姜涛, 王琦, 陈晓雷. 轻量级目标检测算法研究综述[J]. 计算机工程与应用, 2021, 57(2): 17-28.
+
+[123] Tan M, Pang R, Le QV. EfficientDet: Scalable and efficient object detection[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 10781-10790.
+
+[124] Kang H, Chen C. Fast implementation of real-time fruit detection in apple orchards using deep learning[J]. Computers and Electronics in Agriculture, 2020, 168: 105108.
+
+[125] 孟庆宽, 何洁, 仇瑞承. 基于机器视觉的自然环境下作物行识别与导航线提取[J]. 光学学报, 2014, 34(7): 180-186.
+
+[126] Gené-Mola J, Vilaplana V, Rosell-Polo JR, et al. Multi-modal deep learning for Fuji apple detection using RGB-D cameras and their radiometric capabilities[J]. Computers and Electronics in Agriculture, 2019, 162: 689-698.
+
+[127] Wang K, Liew JH, Zou Y, et al. PANet: Few-shot image semantic segmentation with prototype alignment[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 9197-9206.
+
+[128] 陈学佺, 张瑞, 李恒宇. 跨域目标检测研究综述[J]. 软件学报, 2022, 33(10): 3857-3890.
+
+[129] Ganin Y, Lempitsky V. Unsupervised domain adaptation by backpropagation[C]//International Conference on Machine Learning. 2015: 1180-1189.
+
+[130] Geiger A, Lenz P, Urtasun R. Are we ready for autonomous driving? The KITTI vision benchmark suite[C]//2012 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2012: 3354-3361.
+
+[131] 熊春山, 黄小毛, 查利娟. 多模态数据融合的深度学习方法综述[J]. 计算机工程与应用, 2021, 57(18): 1-12.
+
+[132] Chen X, Ma H, Wan J, et al. Multi-view 3d object detection network for autonomous driving[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1907-1915.
+
+[133] Han K, Wang Y, Tian Q, et al. GhostNet: More features from cheap operations[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 1580-1589.
+
+[134] 王程, 刘威, 刘建伟. 轻量级神经网络架构综述[J]. 计算机研究与发展, 2021, 58(1): 22-41.
+
+[135] Sandler M, Howard A, Zhu M, et al. MobileNetV2: Inverted residuals and linear bottlenecks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 4510-4520.
+
+[136] He K, Fan H, Wu Y, et al. Momentum contrast for unsupervised visual representation learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 9729-9738.
+
+[137] 朱军, 李志能, 张鹏飞. 少样本学习研究综述[J]. 软件学报, 2021, 32(2): 349-369.
+
+[138] Chen X, He K. Exploring simple siamese representation learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 15750-15758.
+
+[139] Huang L, Yang Y, Deng Y, et al. DenseBox: Unifying landmark localization with end to end object detection[J]. arXiv preprint arXiv:1509.04874, 2015.
+
+[140] 陈天恩, 郭新宇, 吴升. 基于农学知识的深度学习模型优化方法研究[J]. 中国农业科学, 2021, 54(24): 5301-5315.
+
+[141] Rahnemoonfar M, Sheppard C. Deep count: fruit counting based on deep simulated learning[J]. Sensors, 2017, 17(4): 905.
+
+[142] Sa I, Chen Z, Popović M, et al. weedNet: Dense semantic weed classification using multispectral images and MAV for smart farming[J]. IEEE Robotics and Automation Letters, 2018, 3(1): 588-595.
+
+[143] 周俊, 王欢, 张立勇. 农业场景目标检测数据集调查与分析[J]. 农业机械学报, 2021, 52(10): 21-32.
+
+[144] Lu Y, Young S. A survey of public datasets for computer vision tasks in precision agriculture[J]. Computers and Electronics in Agriculture, 2020, 178: 105760.
+
+### 2 研究内容、研究目标以及拟解决的关键问题
+
+#### 2.1 研究内容
+
+本研究围绕复杂温室环境下黄瓜采摘机器人的视觉需求，以RT-DETR为基础框架，研究高精度、高效率的黄瓜目标检测与定位技术。具体研究内容包括：
+
+**（1）复杂温室环境下的黄瓜图像数据集构建**
+
+针对现有数据集环境单一、标注不完善等问题，构建面向实际应用的大规模黄瓜图像数据集。研究内容包括：
+- 多环境条件下的图像采集：涵盖不同光照（顺光、逆光、侧光）、不同时段（早晨、中午、傍晚）、不同天气（晴天、阴天、雨天）等复杂条件，确保数据的多样性和代表性。
+- 多视角多姿态图像获取：模拟机器人作业视角，采集不同高度、角度和距离的黄瓜图像，包括正视、侧视、俯视等多种视角。
+- 精细化标注体系设计：制定统一的标注规范，包括黄瓜边界框、成熟度等级、遮挡程度、采摘难度等多维度信息，为模型训练提供高质量标注数据。
+- 数据增强策略研究：设计针对性的数据增强方法，包括光照变换、几何变换、噪声添加等，提升模型的泛化能力。
+
+**（2）基于改进RT-DETR的黄瓜目标检测模型研究**
+
+针对RT-DETR在黄瓜检测中存在的不足，从网络架构、特征提取、注意力机制等方面进行改进：
+
+- **大感受野特征提取模块设计**：针对黄瓜目标尺寸差异大的特点，设计基于小波变换的大感受野卷积模块（WCLRF_Block），在不显著增加计算量的前提下扩展感受野，增强对不同尺度目标的特征提取能力。
+
+- **多尺度自适应特征融合机制**：设计多尺度多头自适应特征整合模块（MSMH-AIFI），通过级联群组注意力机制实现不同尺度特征的自适应融合，解决小目标特征表达不充分的问题。
+
+- **空间-通道联合优化的特征金字塔**：构建SCOK-CCFF特征金字塔结构，通过空间金字塔扩张卷积（SPDConv）和跨阶段全核卷积（CSP-OmniKernel）优化多尺度特征融合，提升小目标检测精度。
+
+- **损失函数优化策略**：研究适合黄瓜检测的损失函数设计，包括分类损失、定位损失和IoU损失的联合优化，提高模型的收敛速度和检测精度。
+
+**（3）黄瓜果实三维定位技术研究**
+
+研究基于RGB-D相机的黄瓜三维定位方法，为机械手精准抓取提供位置信息：
+
+- **深度图像与彩色图像配准**：研究RGB图像与深度图像的精确配准方法，建立像素级对应关系，为三维重建奠定基础。
+
+- **点云生成与处理**：将深度图像转换为三维点云，研究点云去噪、滤波、分割等预处理方法，提取黄瓜果实的三维形态特征。
+
+- **空间坐标变换与标定**：建立相机坐标系、机器人坐标系和世界坐标系之间的转换关系，通过手眼标定实现精确的坐标映射。
+
+- **定位精度优化方法**：研究基于多视角融合、时序信息利用等技术的定位精度提升方法，将定位误差控制在±10mm以内。
+
+**（4）面向边缘计算的模型优化与加速**
+
+针对采摘机器人对实时性的要求，研究模型轻量化和加速技术：
+
+- **网络结构优化**：通过网络剪枝、知识蒸馏等技术减少模型参数量和计算量，在保持检测精度的同时提升推理速度。
+
+- **量化与编译优化**：研究INT8量化、混合精度推理等技术，结合TensorRT等推理框架进行深度优化。
+
+- **硬件加速方案**：针对嵌入式GPU平台（如NVIDIA Jetson系列）的特点，设计高效的并行计算方案，充分利用硬件资源。
+
+- **系统级优化策略**：研究多线程调度、内存管理、数据预取等系统级优化技术，提升整体运行效率。
+
+**（5）黄瓜采摘机器人视觉系统集成与试验验证**
+
+将研究成果集成到实际的采摘机器人系统中，进行综合性能评估：
+
+- **视觉系统软硬件集成**：设计模块化的软件架构，实现图像采集、目标检测、三维定位、结果输出等功能的无缝集成。
+
+- **实时通信接口设计**：开发与机器人控制系统的标准化通信接口，支持ROS等机器人操作系统，实现视觉信息的实时传输。
+
+- **实验室环境测试**：在可控的实验室环境中，系统评估检测精度、定位精度、处理速度等关键指标。
+
+- **温室现场试验**：在实际温室环境中进行长时间运行测试，验证系统的稳定性、可靠性和环境适应性。
+
+#### 2.2 研究目标
+
+本研究的总体目标是：开发一套适用于复杂温室环境的高精度、高效率黄瓜目标检测与定位系统，为黄瓜采摘机器人提供可靠的视觉技术支撑。具体目标包括：
+
+**（1）技术指标目标**
+
+- 检测精度：在复杂温室环境下，黄瓜果实的检测准确率达到95%以上，召回率达到92%以上，平均精度(mAP@0.5)达到93%以上。
+- 定位精度：三维空间定位误差控制在±10mm以内，满足机械手精准抓取的要求。
+- 处理速度：在嵌入式GPU平台（NVIDIA Jetson Orin NX）上，实现不低于25FPS的实时检测速度。
+- 模型规模：模型参数量控制在20M以内，浮点运算量(FLOPs)不超过60G，适合边缘设备部署。
+- 环境适应性：在光照变化（20-100000 lux）、遮挡率（0-50%）等复杂条件下，性能下降不超过10%。
+
+**（2）理论创新目标**
+
+- 提出融合小波变换和深度学习的多尺度特征提取新方法，突破传统卷积感受野受限的局限。
+- 建立基于级联群组注意力的自适应特征融合理论框架，实现不同尺度特征的优化整合。
+- 构建空间-通道联合优化的特征金字塔模型，为密集小目标检测提供新的解决方案。
+- 形成一套完整的复杂农业场景目标检测理论体系，为相关研究提供理论指导。
+
+**（3）应用推广目标**
+
+- 开发具有自主知识产权的黄瓜检测软件系统，实现技术成果的产品化。
+- 建立标准化的数据集和评测基准，推动行业技术规范的形成。
+- 完成不少于3个温室基地的示范应用，验证技术的实用性和经济性。
+- 相关技术推广应用到番茄、辣椒等其他果菜类作物，体现技术的通用性。
+
+#### 2.3 拟解决的关键问题
+
+**（1）复杂光照条件下的鲁棒性检测问题**
+
+温室环境光照条件复杂多变，包括自然光与人工补光的混合、局部阴影、强反光等，严重影响检测性能。拟通过以下方法解决：
+- 设计自适应光照归一化算法，减少光照变化对特征提取的影响。
+- 引入注意力机制，使模型自动关注光照稳定的区域。
+- 通过数据增强模拟各种光照条件，提升模型的泛化能力。
+
+**（2）目标与背景高相似性的区分问题**
+
+黄瓜果实与叶片、茎秆在颜色和纹理上高度相似，容易造成误检和漏检。拟采取的解决策略：
+- 设计多尺度上下文信息融合机制，利用空间关系辅助目标识别。
+- 引入形状先验知识，通过轮廓特征区分果实与背景。
+- 构建细粒度的特征表达，增强对微小差异的辨别能力。
+
+**（3）多尺度目标的统一检测问题**
+
+黄瓜从幼果到成熟果实尺寸差异可达10倍以上，对检测算法提出严峻挑战。解决方案包括：
+- 设计自适应锚框生成策略，动态调整检测框的尺寸分布。
+- 构建多级特征金字塔，确保不同尺度目标都有合适的特征表达。
+- 优化损失函数，平衡大小目标的训练权重。
+
+**（4）密集遮挡场景下的目标分离问题**
+
+黄瓜生长密集，相互遮挡严重，增加了单个果实检测的难度。拟通过以下途径解决：
+- 设计基于图割的实例分割算法，实现重叠目标的精确分离。
+- 利用深度信息辅助遮挡推理，恢复被遮挡部分的位置。
+- 引入时序信息，通过多帧融合提升遮挡目标的检测率。
+
+**（5）实时性与精度的平衡优化问题**
+
+采摘机器人要求视觉系统具有高实时性，但精度不能明显下降。优化策略包括：
+- 设计渐进式推理框架，根据场景复杂度动态调整计算资源。
+- 采用混合精度量化技术，在关键层保持高精度，非关键层使用低精度。
+- 优化内存访问模式，减少数据传输开销。
+
+**（6）三维定位精度与稳定性问题**
+
+精确的三维定位是实现精准抓取的前提，但深度相机噪声、标定误差等因素影响定位精度。解决措施包括：
+- 设计多传感器融合算法，综合RGB和深度信息提升定位精度。
+- 建立在线标定机制，动态补偿系统误差。
+- 引入卡尔曼滤波等状态估计方法，提升定位的稳定性和连续性。
+
+### 3 拟采取的研究方案及可行性分析
+
+#### 3.2 技术路线
+
+本研究的技术路线遵循"理论研究→算法设计→系统实现→试验验证"的总体思路，具体技术路线如下：
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                        研究起点：文献调研与需求分析                      │
+│  · 国内外黄瓜采摘机器人研究现状调研                                    │
+│  · 深度学习目标检测技术发展趋势分析                                    │
+│  · 温室黄瓜采摘作业需求与挑战分析                                      │
+└────────────────────┬───────────────────┘
+                         │
+┌────────────────────┴───────────────────┐
+│                    第一阶段：数据集构建与预处理                         │
+├─────────────────────────────────────────────────────────────┤
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │
+│  │ 多环境图像采集 │───→│ 数据标注与审核 │───→│ 数据增强处理  │       │
+│  │ ·不同光照条件  │    │ ·边界框标注   │    │ ·光照变换    │       │
+│  │ ·不同生长阶段  │    │ ·成熟度标注   │    │ ·几何变换    │       │
+│  │ ·不同视角姿态  │    │ ·遮挡度标注   │    │ ·噪声添加    │       │
+│  └─────────────┘    └─────────────┘    └─────────────┘       │
+└────────────────────┬───────────────────┘
+                         │
+┌────────────────────┴───────────────────┐
+│              第二阶段：改进RT-DETR模型设计与优化                       │
+├─────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────┐            │
+│  │                  RT-DETR基础模型分析                 │            │
+│  │    ·网络结构解析  ·性能瓶颈分析  ·改进点确定      │            │
+│  └───────────────┬─────────────┘            │
+│                         │                                            │
+│  ┌─────────────┴─────────────┐            │
+│  │            四大创新模块设计与实现              │            │
+│  ├───────────────────────────────────┤            │
+│  │ 1. WCLRF_Block：大感受野特征提取              │            │
+│  │    ·小波变换集成  ·多尺度卷积  ·特征融合     │            │
+│  │                                               │            │
+│  │ 2. MSMH-AIFI：多尺度自适应特征融合            │            │
+│  │    ·级联群组注意力  ·尺度间交互  ·自适应权重 │            │
+│  │                                               │            │
+│  │ 3. SCOK-CCFF：空间通道联合特征金字塔          │            │
+│  │    ·SPDConv设计  ·CSP-OmniKernel  ·跨层融合  │            │
+│  │                                               │            │
+│  │ 4. 损失函数优化：MPDIoU损失设计               │            │
+│  │    ·分类损失  ·定位损失  ·IoU损失联合优化    │            │
+│  └───────────────────────────────────┘            │
+└────────────────────┬───────────────────┘
+                         │
+┌────────────────────┴───────────────────┐
+│                 第三阶段：三维定位技术研究                             │
+├─────────────────────────────────────────────────────────────┤
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │
+│  │ RGB-D数据采集  │───→│ 点云生成与处理 │───→│ 坐标变换标定  │       │
+│  │ ·深度图获取   │    │ ·点云滤波去噪 │    │ ·手眼标定    │       │
+│  │ ·彩色图配准   │    │ ·目标点云分割 │    │ ·坐标系转换  │       │
+│  └─────────────┘    └─────────────┘    └─────────────┘       │
+└────────────────────┬───────────────────┘
+                         │
+┌────────────────────┴───────────────────┐
+│              第四阶段：模型优化与边缘部署                              │
+├─────────────────────────────────────────────────────────────┤
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │
+│  │ 模型压缩优化   │───→│ 推理框架适配   │───→│ 硬件加速实现  │       │
+│  │ ·网络剪枝     │    │ ·TensorRT优化 │    │ ·GPU并行优化  │       │
+│  │ ·知识蒸馏     │    │ ·INT8量化     │    │ ·内存优化     │       │
+│  └─────────────┘    └─────────────┘    └─────────────┘       │
+└────────────────────┬───────────────────┘
+                         │
+┌────────────────────┴───────────────────┐
+│              第五阶段：系统集成与试验验证                              │
+├─────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────┐    ┌─────────────────────┐         │
+│  │    软硬件系统集成        │───→│    性能测试与优化       │         │
+│  │ ·视觉模块集成          │    │ ·实验室环境测试       │         │
+│  │ ·通信接口开发          │    │ ·温室现场试验         │         │
+│  │ ·人机界面设计          │    │ ·性能指标评估         │         │
+│  └─────────────────────┘    └─────────────────────┘         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+本研究技术路线的关键特点：
+
+1. **循序渐进**：从基础的数据准备到核心算法研究，再到系统集成验证，逻辑清晰，步骤明确。
+
+2. **模块化设计**：将复杂的研究任务分解为相对独立的模块，便于并行推进和风险控制。
+
+3. **迭代优化**：在每个阶段都设置了反馈优化环节，确保研究质量和技术指标的达成。
+
+4. **理论与实践结合**：既注重算法创新，又强调工程实现和实际应用，提升研究成果的实用价值。
+
+5. **多学科交叉**：融合计算机视觉、深度学习、机器人技术、农业工程等多学科知识，体现交叉创新特色。
